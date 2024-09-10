@@ -1,0 +1,16 @@
+.list a{
+    list-style: none;
+  
+    text-decoration: none;
+    color: white;
+   
+  }
+  .list ul{
+    list-style: none;
+    color: white;
+  }
+  .footer{
+    background-color: black;
+    line-height: 40px;
+    padding-top: 10px;
+  }

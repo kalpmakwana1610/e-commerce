@@ -1,0 +1,18 @@
+.photos{
+    display: flex;
+   flex-direction: column;
+}
+/* .images{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+} */
+.arrow{
+    display: flex;
+    justify-content: start;
+  
+    font-size: 30px;
+}
+.addtocart{
+    margin-left: 70px;
+}

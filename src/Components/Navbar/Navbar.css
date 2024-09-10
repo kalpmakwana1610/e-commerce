@@ -1,0 +1,47 @@
+.options{
+   display: flex;
+   justify-content: space-around;
+   font-size: 20px;
+}
+.home{
+    display: flex;
+    justify-content: left;
+    font-size: 28px;
+}
+
+.login{
+    display: flex;
+    justify-content: right;
+    font-size: 20px;
+}
+.login :hover{
+    color: blue;
+}
+ 
+.navbar a{
+    text-decoration: none;
+    color: black;
+ 
+    /* text-decoration: underline pink; */
+}
+.options a:hover{
+    color: blue;
+   
+}
+.icons{
+    display: flex;
+    justify-content: right;
+   
+    font-size: 25px;
+}
+/* .num{
+   display: inline;
+    float: right;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+     background-color: red;
+} */

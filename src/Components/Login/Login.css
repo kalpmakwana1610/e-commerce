@@ -1,0 +1,39 @@
+.detailformail {
+  margin-top: 20px;
+}
+.detailforpass {
+  margin-top: 20px;
+}
+.signin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  background-color: black;
+  color: white;
+  width: 80px;
+  height: 40px;
+  border-radius: 20px;
+}
+.form {
+  background-color: transparent;
+  height: 300px;
+}
+.form label {
+  font-size: 20px;
+}
+.form input {
+  background-color: transparent;
+}
+.loginform {
+  display: flex;
+  justify-content: left;
+}
+.loginmain {
+  /* color: black; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 100px;
+  margin-top: 200px;
+}
